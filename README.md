@@ -2,17 +2,16 @@
 
 <img src="screenshots/inicio.png" width="500">
 
-Um jogo do género *2D Platformer*, cujo objetivo é atingir a maior pontuação possível fazendo a personagem saltar de plataforma em plataforma
-sem deixá-lo cair para o abismo.<br>
-Desenvolvido(não finalizado) para Android em Java com a framework [libGDX](https://libgdx.badlogicgames.com/) e inspirado no famoso jogo "Flappy Bird".
+A game of the *2D Platformer* genre, whose objective is to reach the highest possible score by making the character jump from platform to platform without letting him fall into the abyss.<br>
+Developed (unfinished) for Android in Java with the [libGDX](https://libgdx.badlogicgames.com/) framework and inspired by the famous game "Flappy Bird".
 
-# Instalação em dispositivo Android
+# Installation on Android device
 
-Pode instalar o jogo no seu dispositivo com o ficheiro [android.apk](https://github.com/Adtx/Jumpy/blob/master/out/production/android/android.apk).
+You can install the game on your device with the [android.apk](https://github.com/Adtx/Jumpy/blob/master/out/production/android/android.apk) file.
 
 # Screenshots
 
-* **Ecrã de fim de jogo** (com pontuação recorde e último resultado)
+* **End of game screen** (with record score and last result)
 
 <img src="screenshots/game-over.png" width="500">
 
